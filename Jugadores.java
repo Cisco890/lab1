@@ -19,5 +19,5 @@ public class Jugadores {
         puntajetotal += points;
     }
 }
-
+// acá se mira todo lo necesario para que los jugadores puedan existir, se les da el nombre, se va sumando los puntos, etc. 
 

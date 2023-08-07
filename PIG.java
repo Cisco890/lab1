@@ -6,6 +6,7 @@ public class PIG {
         juego.start();
     }
 }
-
+// Este es el main del programa, en la línea 2 se marcan los argumentos que necesitan, se importa
+//los jugadores y se comienza el juego llamando Game y .start()
     
 
